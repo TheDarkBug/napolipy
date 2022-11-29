@@ -55,6 +55,3 @@ def gen_logo():
      {DBFG + TRUB + (TLB * 14) + TLUB + RS}
        {DBFG + (HHHUB * 12) + RS}"""
 
-
-if __name__ == "__main__":
-    print(gen_logo())
