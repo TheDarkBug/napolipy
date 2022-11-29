@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "napolipy_TheDarkBug"
+name = "napolipy"
 version = "1.0"
 authors = [
   { name="Adriano Oliviero", email="adrianoliviero23@gmail.com" },
