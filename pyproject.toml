@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "napolipy"
-version = "1.0"
+version = "1.0.1"
 authors = [
   { name="Adriano Oliviero", email="adrianoliviero23@gmail.com" },
 ]
