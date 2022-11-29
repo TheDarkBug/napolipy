@@ -14,3 +14,11 @@ The original logo is distributed following the directions of the [Creative Commo
 git clone https://github.com/TheDarkBug/napolipy.git
 pip install ./napolipy
 ```
+
+### From PyPI
+
+[PyPI page](https://pypi.org/project/napolipy/)
+
+```shell
+python -m pip install napolipy
+```
